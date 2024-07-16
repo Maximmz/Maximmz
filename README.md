@@ -53,7 +53,7 @@
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-<img src="https://github-readme-streak-stats-lemon-five.vercel.app?user=Maximmz&theme=dark" />
+<img src="https://github-readme-streak-stats-lemon-five.vercel.app?user=Maximmz&theme=dark&date=$(date)" />
 </div>
 
 <br/><br/>
